@@ -1,6 +1,7 @@
 # Linux-Commands
 
 pwd -L(logical) -p(physical)
+
 ls -a(hidden) -R(sub directories) -la(hidden+details) -S(sort by size) -t(sort by time) -x(sort by extention)  also [ls ..][ls /][ls~]
 cd ..(back)  /(root)  ~(home)
 mkdir -m(

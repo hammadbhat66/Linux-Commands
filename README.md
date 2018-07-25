@@ -22,6 +22,4 @@ gzip(to zip unzip .gzip)
 make --version (check GNU version)
 createdb (creates database from the terminal)
 psql (has some tools)
-
-
-
+<%end %>
